@@ -2640,6 +2640,12 @@
       "config_flow": false,
       "iot_class": "calculated"
     },
+    "jm": {
+      "name": "ha",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_polling"
+    },
     "joaoapps_join": {
       "name": "Joaoapps Join",
       "integration_type": "hub",
